@@ -19,10 +19,14 @@ p {
   color: red;
 }
 
-.dot {
-  height: 25px;
-  width: 25px;
-  background-color: #ffccff;
+.menu {
+  font-family: "Desdemona, 'Brush Script Std', 'Comic Sans MS';"
+}
+
+#dot {
+  height: 16px;
+  width: 16px;
+  background-color: #ff0066;
   border-radius: 50%;
   display: inline-block;
 }
