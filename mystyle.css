@@ -21,8 +21,9 @@ p {
 
 #menu {
   text-align: center;
-  color: #EF8655;
-  font-family: Desdemona, 'Brush Script Std', 'Comic Sans MS';
+  color: #48d025;
+  font-family: 'Desdemona', 'Brush Script Std', 'Comic Sans MS';
+  font-weight:bold;
 }
 
 .dot {
