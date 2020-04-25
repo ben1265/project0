@@ -19,11 +19,12 @@ p {
   color: red;
 }
 
-.menu {
+#menu {
+  text-align: center;
   font-family: "Desdemona, 'Brush Script Std', 'Comic Sans MS';"
 }
 
-#dot {
+.dot {
   height: 16px;
   width: 16px;
   background-color: #ff0066;
