@@ -11,7 +11,7 @@ body {
 }
 h1 {
     text-transform: uppercase;
-    color: #ffffff;
+    color: #EF8655;
     text-align: center;
     font-size: 70px;
 }
@@ -19,9 +19,10 @@ p {
   color: red;
 }
 
-.menu {
+#menu {
   text-align: center;
-  font-family: "Desdemona, 'Brush Script Std', 'Comic Sans MS';"
+  color: #EF8655;
+  font-family: Desdemona, 'Brush Script Std', 'Comic Sans MS';
 }
 
 .dot {
