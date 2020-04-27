@@ -19,11 +19,41 @@ p {
   color: red;
 }
 
+@media (min-width: 1000px) {
+    .first::before {
+      content: "Essential Recipes";
+    }
+    .second::before {
+      content: "Popular Drinks";
+    }
+    .third::before {
+      content: "Favorite Wines";
+    }
+}
+
+@media (max-width: 999px) {
+    .first::before {
+      content: "Recipes";
+    }
+    .second::before {
+      content: "Drinks";
+    }
+    .third::before {
+      content: "Wines";
+    }
+}
+
 #menu {
   text-align: center;
   color: #48d025;
   font-family: 'Desdemona', 'Brush Script Std', 'Comic Sans MS';
+  font-size: 18px;
   font-weight:bold;
+}
+
+a:link, a:visited {
+    color:#48d025;
+    text-decoration: none;
 }
 
 .dot {
