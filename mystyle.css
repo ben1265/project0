@@ -57,6 +57,10 @@ a:link, a:visited {
     text-decoration: none;
 }
 
+a:hover {
+  color: #78ff55;
+}
+
 .dot {
   height: 16px;
   width: 16px;
