@@ -49,6 +49,7 @@ p {
   font-family: 'Desdemona', 'Brush Script Std', 'Comic Sans MS';
   font-size: 18px;
   font-weight:bold;
+  text-shadow: 2px 2px #111111;
 }
 
 a:link, a:visited {
