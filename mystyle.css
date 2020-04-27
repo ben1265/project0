@@ -60,3 +60,16 @@ a:hover {
   border-radius: 50%;
   display: inline-block;
 }
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container > div {
+    background-color: #e34321;
+    font-size: 20px;
+    margin: 20px;
+    paddind: 20px;
+    width: 200px;
+}
