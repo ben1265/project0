@@ -83,3 +83,33 @@ a:hover {
     width: 200px;
     height: 250px;
 }
+
+#OrangeHeaven {
+  background-color: #e78a31;
+  color: black;
+}
+
+#PiscoSour {
+  background-color: #34f074;
+  color: black;
+}
+
+#PotionMagique {
+  background-color: #F78E1E;
+  color: black;
+}
+
+#SmoothRita {
+  background-color: #ec4a61;
+  color: black;
+}
+
+#TheBeachBomb {
+  background-color: #1fb6d1;
+  color: black;
+}
+
+#TheSundayAfternoon {
+  background-color: #fea700;
+  color: black;
+}
