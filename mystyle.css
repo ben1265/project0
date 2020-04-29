@@ -78,10 +78,25 @@ a:hover {
 .container > div {
     background-color: #e34321;
     font-size: 15px;
-    margin: 20px;
-    padding: 20px;
     width: 200px;
     height: 250px;
+    margin: 20px;
+}
+
+.DrinkHeader {
+  background-color: #e3ff21;
+  text-transform: uppercase;
+  color: #172B2E;
+  font-size: 12px;
+  padding: 4px;
+}
+
+.DrinkRecipe {
+  padding: 8px;
+}
+
+.DrinkRecipe ul {
+  padding-left: 1.2em;
 }
 
 #OrangeHeaven {
