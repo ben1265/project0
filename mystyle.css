@@ -128,3 +128,7 @@ a:hover {
   background-color: #fea700;
   color: black;
 }
+
+.centeringtest {
+  align: center;
+}
